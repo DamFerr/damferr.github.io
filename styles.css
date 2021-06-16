@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=KoHo:wght@300&display=swap');
+* {
+  user-select: none;
+  font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background: #121212;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+img {
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+
+
+.profile-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    height: auto;
+    max-width: 200px;
+  }
+
+.profile-name {
+      font-family: 'KoHo', sans-serif;
+      text-align: center;
+      padding: 30px;
+  }
+
+.links {
+      text-align: center;
+      margin-top: 20px;
+      padding: 20px;
+      border: 1px solid white;
+      border-width: 2px;
+      width: 290px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 40px;
+  }
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: color 1s; 
+}
+
+.bottom-text {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #000;
+    background: #fff;
+    transition: 0.5s;
+}
+
