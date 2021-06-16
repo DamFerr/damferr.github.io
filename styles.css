@@ -38,7 +38,7 @@ img {
       text-align: center;
       margin-top: 20px;
       padding: 20px;
-      border: 1px solid white;
+      border: 2px solid white;
       border-width: 5px;
       width: 300px;
       display: block;
@@ -63,8 +63,7 @@ a {
 }
 
 a:hover {
-    color: #000;
-    background: #fff;
+    background: #000000;
     transition: 0.5s;
 }
 
