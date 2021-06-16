@@ -10,6 +10,7 @@ body {
     color: #ff0000;
     font-size: 20px;
     letter-spacing: 2px;
+    font-weight: bold;
 }
 
 img {
@@ -50,6 +51,7 @@ a {
     text-decoration: none;
     color: white;
     transition: color 1s; 
+    font-weight: bold;
 }
 
 .bottom-text {
