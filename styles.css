@@ -57,6 +57,10 @@ a.links {
   margin-right: auto;
   border-radius: 15px 50px;
 }
+b.pages {
+  text-align: center;
+  display: block;
+}
 div {
   text-align: center;
   margin-top: 20px;
