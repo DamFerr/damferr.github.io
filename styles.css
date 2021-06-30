@@ -60,6 +60,7 @@ a.links {
 b.pages {
   text-align: center;
   display: block;
+  right: 100px;
 }
 div {
   text-align: center;
