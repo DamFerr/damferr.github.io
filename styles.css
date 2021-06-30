@@ -63,18 +63,6 @@ c {
   font-weight: bold;
   text-decoration: none;
 }
-.links {
-  text-align: center;
-  margin-top: 20px;
-  padding: 20px;
-  border: 2px solid white;
-  border-width: 5px;
-  width: 300px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 15px 50px;
-}
 
 div {
   text-align: center;
