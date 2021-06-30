@@ -13,7 +13,8 @@ body {
     font-weight: bold;
 }
 h1 {
-  right: 100px;
+  right: 10px;
+  left: 300px;
 }
 img {
   border-radius: 50%;
