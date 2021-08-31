@@ -79,5 +79,5 @@ div {
 a:hover {
     color: #000000;
     background: #ffffff;
-    transition: 0.01s;
+    transition: 0.2s;
 }
