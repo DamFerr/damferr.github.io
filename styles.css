@@ -6,8 +6,8 @@
 }
 
 body {
-    background: hsl(323, 53%, 80%);
-    color: #ff0000;
+    background: #000000;
+    color: #ffffff;
     font-size: 20px;
     letter-spacing: 2px;
     font-weight: bold;
@@ -77,7 +77,7 @@ div {
 }
 
 a:hover {
-    color: #ffffff;
-    background: #60ecc9;
+    color: #000000;
+    background: #ffffff;
     transition: 0.5s;
 }
