@@ -75,6 +75,18 @@ section {
           border-radius: 0.5em;
         }
       }
+      .btn-steam {
+        font-family: "Rubik", sans-serif;
+        color: white;
+        background-color: #808080;
+        padding: 1.2em 5.7em;
+        border-radius: 0.8em;
+        transition: 0.3s;
+        &:hover {
+          background: #666464;
+          border-radius: 0.5em;
+        }
+      }
       .btn-github {
         font-family: "Rubik", sans-serif;
         color: white;
