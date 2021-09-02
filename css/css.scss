@@ -65,6 +65,18 @@ section {
           border-radius: 0.5em;
         }
       }
+      .btn-yt {
+        font-family: "Rubik", sans-serif;
+        color: white;
+        background-color: #ffbf00;
+        padding: 1.2em 6.5em;
+        border-radius: 0.8em;
+        transition: 0.3s;
+        &:hover {
+          background: #bd8e04;
+          border-radius: 0.5em;
+        }
+      }
       .btn-tiktok {
         font-family: "Rubik", sans-serif;
         color: white;
