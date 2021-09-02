@@ -105,6 +105,21 @@ section ul li .btn-ig:hover {
   border-radius: 0.5em;
 }
 
+section ul li .btn-steam {
+  font-family: "Rubik", sans-serif;
+  color: white;
+  background-color: #808080;
+  padding: 1.2em 6.8em;
+  border-radius: 0.8em;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+section ul li .btn-steam:hover {
+  background: #666464;
+  border-radius: 0.5em;
+}
+
 section ul li .btn-github {
   font-family: "Rubik", sans-serif;
   color: white;
