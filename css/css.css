@@ -89,6 +89,20 @@ section ul li .btn-yt:hover {
   background: #a60f0f;
   border-radius: 0.5em;
 }
+section ul li .btn-starbot {
+  font-family: "Rubik", sans-serif;
+  color: white;
+  background-color: #ffbf00;
+  padding: 1.2em 6.5em;
+  border-radius: 0.8em;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+section ul li .btn-starbot:hover {
+  background: #bd8e04;
+  border-radius: 0.5em;
+}
 
 section ul li .btn-tiktok {
   font-family: "Rubik", sans-serif;
