@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700&display=swap');
 body {
   margin: 0;
   padding: 0;
@@ -18,7 +19,7 @@ header {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-top: 2em;
+  margin-top: 1.5em;
   margin-bottom: 2em;
 }
 
@@ -27,7 +28,7 @@ header h1 {
   display: block;
   text-align: center;
   font-size: 2em;
-  font-family: "Rubik", sans-serif;
+  font-family: 'Dosis', sans-serif;
   text-shadow: 0 0 3px #fff;
   margin-top: -15px;
 }
@@ -66,7 +67,7 @@ section ul {
 }
 
 section ul li {
-  margin-bottom: 3.5em;
+  margin-bottom: 3.14em;
   list-style-type: none;
   text-align: center;
 }
@@ -76,7 +77,7 @@ section ul li a {
 }
 
 section ul li .btn-yt {
-  font-family: "Rubik", sans-serif;
+  font-family: 'Dosis', sans-serif;
   color: white;
   background-color: #db0000;
   padding: 1.2em 6.5em;
@@ -86,11 +87,11 @@ section ul li .btn-yt {
 }
 
 section ul li .btn-yt:hover {
-  background: #a60f0f;
+  background: #660a0a;
   border-radius: 0.5em;
 }
 section ul li .btn-starbot {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #ffbf00;
   padding: 1.2em 6.5em;
@@ -105,7 +106,7 @@ section ul li .btn-starbot:hover {
 }
 
 section ul li .btn-tiktok {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #8a257e;
   padding: 1.2em 6em;
@@ -120,9 +121,9 @@ section ul li .btn-tiktok:hover {
 }
 
 section ul li .btn-ig {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
-  background-color: #ad0046;
+  background-color: #a5207d;
   padding: 1.2em 5.7em;
   border-radius: 0.8em;
   -webkit-transition: 0.3s;
@@ -130,12 +131,12 @@ section ul li .btn-ig {
 }
 
 section ul li .btn-ig:hover {
-  background: #91003b;
+  background: #66134d;
   border-radius: 0.5em;
 }
 
 section ul li .btn-steam {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #808080;
   padding: 1.2em 6.8em;
@@ -150,7 +151,7 @@ section ul li .btn-steam:hover {
 }
 
 section ul li .btn-github {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #171717;
   padding: 1.2em 6.7em;
@@ -165,7 +166,7 @@ section ul li .btn-github:hover {
 }
 
 section ul li .btn-discord {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #4f53ff;
   padding: 1.2em 6.5em;
@@ -175,12 +176,12 @@ section ul li .btn-discord {
 }
 
 section ul li .btn-discord:hover {
-  background: #3c40fa;
+  background: #2e31e9;
   border-radius: 0.5em;
 }
 
 section ul li .btn-namemc {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #45293f;
   padding: 1.2em 6.8em;
@@ -195,7 +196,7 @@ section ul li .btn-namemc:hover {
 }
 
 section ul li .btn-mcserver {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #6bcf00;
   padding: 1.2em 5.2em;
@@ -210,7 +211,7 @@ section ul li .btn-mcserver:hover {
 }
 
 section ul li .btn-mcplanet {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #006b91;
   padding: 1.2em 6.5em;
@@ -225,7 +226,7 @@ section ul li .btn-mcplanet:hover {
 }
 
 section ul li .btn-laby {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #002a6e;
   padding: 1.2em 6.5em;
@@ -240,7 +241,7 @@ section ul li .btn-laby:hover {
 }
 
 section ul li .btn-more {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: #5786de;
   padding: 0.8em 2em;
   border-radius: 0.8em;
@@ -255,7 +256,7 @@ section ul li .btn-more:hover {
 }
 
 .btn-twitch {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #5200a3;
   padding: 1.2em 7em;
@@ -270,7 +271,7 @@ section ul li .btn-more:hover {
 }
 
 .btn-replit {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #8a5a6e;
   padding: 1.2em 7em;
@@ -285,7 +286,7 @@ section ul li .btn-more:hover {
 }
 
 .btn-twitter {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: white;
   background-color: #1da1f2;
   padding: 1.2em 7em;
@@ -295,12 +296,12 @@ section ul li .btn-more:hover {
 }
 
 .btn-twitter:hover {
-  background: #0f87d1;
+  background: #0d6ca7;
   border-radius: 0.5em;
 }
 
 footer {
-  margin-top: 3em;
+  margin-top: 0em;
   padding: 2.2em;
   background-color: #000508;
 }
